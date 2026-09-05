@@ -585,7 +585,7 @@ section {
 .info-content {
     position: absolute;
 
-    top: 40%;
+    top: 50%;
     left: 8%;
 
     width: 84%;
@@ -903,7 +903,7 @@ section {
 ========================================================= */
 
 .galeri-info {
-    margin-top: 10px;
+    margin-top: 5px;
     width: 30%;
     text-align: center;
 }
