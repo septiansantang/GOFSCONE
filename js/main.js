@@ -503,7 +503,7 @@ if (!canvas || !rockyContainer) {
                 // STORY: Pindah ke kanan atas untuk menyeimbangkan teks di kiri bawah
                 story: {
                     left: '85%',
-                    top: small ? '31%' : '33%',
+                    top: small ? '32%' : '33%',
                     scale: small ? 0.85 : 1.0 // Diperbesar drastis
                 },
                 // INFO: Mengintip di sebelah kanan judul "INFO"
