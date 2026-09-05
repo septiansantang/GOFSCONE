@@ -526,7 +526,7 @@ if (!canvas || !rockyContainer) {
         // ====================================================
         return {
             story: { left: '30%', top: '50%', scale: 1.4 },
-            info: { left: '95%', top: '30%', scale: 0.75 },
+            info: { left: '95%', top: '35%', scale: 0.75 },
             galeri: { left: '90%', top: '98%', scale: 1 }
         };
     }
