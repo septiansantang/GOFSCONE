@@ -503,7 +503,7 @@ if (!canvas || !rockyContainer) {
                 // STORY: Pindah ke kanan atas untuk menyeimbangkan teks di kiri bawah
                 story: {
                     left: '85%',
-                    top: small ? '28%' : '30%',
+                    top: small ? '31%' : '33%',
                     scale: small ? 0.85 : 1.0 // Diperbesar drastis
                 },
                 // INFO: Mengintip di sebelah kanan judul "INFO"
@@ -526,8 +526,8 @@ if (!canvas || !rockyContainer) {
         // ====================================================
         return {
             story: { left: '30%', top: '50%', scale: 1.4 },
-            info: { left: '75%', top: '43%', scale: 0.75 },
-            galeri: { left: '90%', top: '93%', scale: 1 }
+            info: { left: '75%', top: '30%', scale: 0.75 },
+            galeri: { left: '90%', top: '98%', scale: 1 }
         };
     }
 
